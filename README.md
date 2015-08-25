@@ -1,6 +1,4 @@
 # hello-world
 Ah, so this is where you type text.
 
-I'm going to spell something wrong so that I can have an excuse to make a pull request to correct it.
-
-(In the branch readme-edits, I've corrected the wrongly spelt word 'wrong' above).
+I originally made a deliberate spelling mistake in README so that I could correct it in a branch in order to practise pull requests and merging.
